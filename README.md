@@ -1,0 +1,2 @@
+# rush-
+mini_project
